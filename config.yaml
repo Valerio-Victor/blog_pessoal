@@ -18,7 +18,7 @@ params:
   google:
     analytics:
       trackerID: GA-000000000-0
-  name: Anthony Russel
+  name: VICTOR EDUARDO DE MELLO VALERIO
   phone: +234 23 9873237
   sharethis:
     custom: yes
@@ -90,3 +90,8 @@ menu:
     - name: blog
       url: /post/
       weight: 5
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
